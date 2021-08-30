@@ -1,6 +1,11 @@
 ## Samuel's GitHub Portofolio
 
-Greetings! This is a GitHub website meant to be used as a portfolio. Organisations, recruiters, and users alike are more than free to take a look around and explore my projects. If there is something of interest that you find then please, do not hesitate to contact me to resolve any doubts, or to get the information that you need. I may not be able to answer all of your inquiries but I will attempt to do my best in doing so. Furthermore, if you do not get a response from me quickly, then that either means I am away or extremely busy completing other tasks.
+<p id="intro_paragraph"> Greetings! This is a GitHub website meant to be used as a portfolio. Organisations, recruiters, and users alike are more than free to take a look around and explore my projects. If there is something of interest that you find then please, do not hesitate to contact me to resolve any doubts, or to get the information that you need. I may not be able to answer all of your inquiries but I will attempt to do my best in doing so. Furthermore, if you do not get a response from me straightaway do not panic, that either means I am away or extremely busy completing other tasks. </p>
+Now, let us get down to some real business.
+
+## Arduino/Electronics Projects
+
+- Arduino Greenhouse
 
 You can use the [editor on GitHub](https://github.com/samuelbuenofran/samuelbuenofran.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
