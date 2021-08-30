@@ -1,5 +1,13 @@
 ## Samuel's GitHub Portofolio
 
+<style>
+  #intro_paragraph {
+    font-family: Times New Roman, serif;
+    font-size: 16px;
+    font-color: white;
+  }
+<style>
+
 <p id="intro_paragraph"> Greetings! This is a GitHub website meant to be used as a portfolio. Organisations, recruiters, and users alike are more than free to take a look around and explore my projects. If there is something of interest that you find then please, do not hesitate to contact me to resolve any doubts, or to get the information that you need. I may not be able to answer all of your inquiries but I will attempt to do my best in doing so. Furthermore, if you do not get a response from me straightaway do not panic, that either means I am away or extremely busy completing other tasks. </p>
 Now, let us get down to some real business.
 
@@ -42,3 +50,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+  <footer>
+    <p> Copyright &copy; </p>
+  </footer>
