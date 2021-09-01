@@ -1,6 +1,6 @@
 # Samuel's GitHub Portofolio
 
-Greetings! This is a GitHub website meant to be used as a portfolio. Organisations, recruiters, and users alike are more than free to take a look around and explore my projects. If there is something of interest that you find then please, do not hesitate to contact me through my email to resolve any doubts, or to get the information that you need. I may not be able to answer all of your inquiries but I will attempt to do my best in doing so. Furthermore, if you do not get a response from me straightaway do not panic, that either means I am away or extremely busy completing other tasks.
+Greetings! You are currently reading a GitHub portfolio website. Organisations, recruiters, and users alike are free to look around and explore the projects mentioned here. If there is something of interest you find, then do not hesitate to contact me to resolve any uncertainties, or to get the information you need. I may not be able to answer all of your inquiries, but I will attempt to do my best at doing so. Furthermore, if you cannot get a response from me promptly, that either means I am away, or am extremely busy completing other tasks.
 
 ## Arduino/Electronics Projects
 
