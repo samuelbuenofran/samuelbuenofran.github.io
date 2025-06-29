@@ -26,5 +26,5 @@ Well hello there! Glad you came to see my webpage on Github Pages. Feel free to 
 | Project Name                   | Status          |
 | ------------------------------ | --------------- |
 | Acadio                         | WIP             |
-| SmallBiz Migration             |                 |
-|                                |                 |
+| SmallBiz Migration             | WIP             |
+| Pet Store Management System    |                 |
