@@ -2,8 +2,6 @@
 
 Well hello there! Glad you came to see my webpage on Github Pages. Feel free to explore and look around to see what I have made along the years. In addition, you can also see my hobbies and interests displayed here as well. Thank you for your time! ✨😁
 
-Greetings! You are currently reading a GitHub portfolio website. Organisations, recruiters, and users alike are free to look around and explore the projects displayed here. If there is something of interest you find, then do not hesitate to contact me to resolve any uncertainties, or to get the information you need. I may not be able to answer all of your inquiries, but I will attempt to do my best at doing so. Furthermore, if you cannot get a response from me promptly, that either means I am away, or am extremely busy completing other tasks.
-
 ## Arduino/Electronics Projects
 
 | **Project Name**               | **Status**      |
