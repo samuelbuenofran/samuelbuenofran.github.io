@@ -14,10 +14,10 @@ Well hello there! Glad you came to see my webpage on Github Pages. Feel free to 
 
 ## Unity/C# Projects
 
-| Project Name        | Status          |
-| ------------------- | --------------- |
-| Rise (Jōshō*)       | Stagnated       |
-| SmallBiz            | WIP             |
+| Project Name                                    | Status          |
+| ----------------------------------------------- | --------------- |
+| [Rise Up (Jōshō*)](https://www.google.com/)     | ⏸ Stagnated    |
+| SmallBiz |                                      | Delivered       |
 
 *上昇
 
