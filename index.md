@@ -1,6 +1,6 @@
 # ✒ Sam's Journal
 
-![Static Badge](https://img.shields.io/javascript/:JavaScript)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Bueno%20Francisco-FFFFFF?labelColor=2A3F99&style=plastic&logo=https://img.icons8.com/3d-fluency/94/linkedin--v2.png&link=https://www.linkedin.com/in/samuelbf/)](https://www.linkedin.com/in/samuelbf/)
 
 Well hello there! Glad you came to see my webpage on Github Pages. Feel free to explore and look around to see what I have made along the years. In addition, you can also see my hobbies and interests displayed here as well. Thank you for your time! ✨😁
 
