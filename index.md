@@ -2,6 +2,10 @@
 
 Well hello there! Glad you came to see my webpage on Github Pages. Feel free to explore and look around to see what I have made along the years. In addition, you can also see my hobbies and interests displayed here as well. Thank you for your time! ✨😁
 
+<picture>
+  <img alt="Image Alt Text" src="https://img.icons8.com/stickers/100/arduino-uno-board.png">
+</picture>
+
 <a>![badge-alt-text](https://img.icons8.com/stickers/100/arduino-uno-board.png)</a>
 
 ## <img src="https://img.icons8.com/stickers/100/arduino-uno-board.png" alt="Greenhouse Project" width="40" height="40"> Arduino/Electronics Projects
