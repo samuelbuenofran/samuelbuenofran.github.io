@@ -17,7 +17,7 @@ Well hello there! Glad you came to see my webpage on Github Pages. Feel free to 
 | Project Name                                    | Status          |
 | ----------------------------------------------- | --------------- |
 | [Rise Up (Jōshō*)](https://www.google.com/)     | ⏸ Stagnated    |
-| SmallBiz |                                      | Delivered       |
+| SmallBiz                                        | Delivered       |
 
 *上昇
 
