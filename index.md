@@ -10,7 +10,7 @@ Well hello there! Glad you came to see my webpage on Github Pages. Feel free to 
 | [Wheelchair Assistant]()                                        | OK              |
 | [Danger detector and escape aid](https://)                      | OK              |
 
--
+---
 
 ## Unity/C# Projects
 
